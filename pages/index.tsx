@@ -41,6 +41,7 @@ export default function Home() {
               height='789px'
               width='1200px'
               alt='company logo'
+              priority
             />
           </motion.div>
         </div>
