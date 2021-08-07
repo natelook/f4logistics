@@ -51,7 +51,7 @@ function About() {
               </p>
             </div>
           </div>
-          <div className='grid md:grid-cols-3 my-10 md:items-center md:justify-items-center space-y-3'>
+          <div className='grid  md:grid-cols-3 my-10 md:items-center md:justify-items-center space-y-3'>
             <div>
               <h3 className='mb-2'>Benefits</h3>
               <ul className='list-disc list-inside'>
